@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+About me
+I am Dinghuai Zhang (张鼎怀), a third year PhD student at Mila. I belong to Prof. Bengio’s group as well as Aaron’s Army (aka A.A.). During my PhD, I’ve interned at FAIR labs, honored to be mentored by Dr. Tian Qi Chen. Previously, I was an undergraduate in School of Mathematical Sciences at Peking University, working with Prof. Zhanxing Zhu and Prof. Bin Dong.
+
+I am open to possible cooperation or visiting opportunities. Further, I am always happy to collaborate with junior (undergraduate / master) students, especially at Montreal. Students from underrepresented groups are strongly encouraged to reach out! If you are interested, feel free to contact me by email, facebook, or wechat.
 
 A data-driven personal website
 ======
