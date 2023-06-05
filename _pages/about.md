@@ -94,19 +94,19 @@ Baifeng Shi\*, *Dinghuai Zhang*\*, Qi Dai, Zhanxing Zhu, Yadong Mu, Jingdong Wan
 ( * denotes equal contribution)
 
 ## Activities
-### Seminars
+### Services
+Reviewer for AAAI, IJCAI, ECML, etc.
+
+## Useful Links
 These are some of the seminars I've co-organized / participated in.
 
 - [FAI Seminar](https://www.tengjiaye.com/seminar)
-- [Out-of-distribution Generalization Reading Group](https://sites.google.com/view/mila-ood-rg/)
+- [Out-of-distribution Generalization Paper List](https://out-of-distribution-generalization.com/)
 - [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
-### Services
-Reviewer for JMLR<img src="https://zdhNarsil.github.io/files/I_review_JMLR.gif" width="50" height="50"/>, ICML, NeurIPS, ICLR, AISTATS, UAI, etc.
-
 ## Miscs
-* I enjoy reading. I feel lucky to learn about wisdom from sociologists such as Georg Simmel, Norbert Elias, Max Weber, Sigmund Freud. I occasionally write some thoughts in Chinese at [douban](https://www.douban.com/people/161587233/).
-* I used to be a huge fan of Daido Moriyama and Henri Cartier-Bresson (street photography pioneers). 
-* I paint Chinese calligraphy well since a child.
+* I enjoy sporting and watching games. I am interested in analyzing Soccer formation and tactics. Feel free to communicate with me.
+* I enjoy playing suduko, minesweeper and other mind games (including problems in algorithm contests >_<). 
+* In my spare time I like to read history books, especially Chinese history.
