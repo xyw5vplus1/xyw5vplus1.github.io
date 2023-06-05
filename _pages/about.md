@@ -19,9 +19,9 @@ If you are interested, feel free to contact me by [email](mailto:dinghuai.zhang@
  
 
 **Research interests**
-* Causal discovery (especially in heterogeneous environments), causal representation learning, disentanglement representation learning. 
-* Probabilistic methods: inference, generative models, uncertainty modeling
-* self-supervised learning and its support theory
+* Causal discovery (especially in heterogeneous environments), causal representation learning, disentangled representation learning. 
+* Probabilistic methods: inference, generative models, uncertainty modeling.
+* Self-supervised learning and its support theory.
 
 ## Publications
 <!--
