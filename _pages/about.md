@@ -24,27 +24,29 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
 * Self-supervised learning and its support theory.
 
 ## Publications
-[Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810)      
-Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan. 
+[Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810) 
+
+Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan. \\
 ACM Transactions on Knowledge Discovery from Data (**TKDD**)
 
-[Differentially Private Nonlinear Causal Discovery from Numerical Data]       
-Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
+[Differentially Private Nonlinear Causal Discovery from Numerical Data]    
+
+Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou. \\
 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance] 
 
-Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
+Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  \\
 37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 [Self-supervised learning for multimedia recommendation](https://ieeexplore.ieee.org/abstract/document/9811387) 
 
-Zhulin Tao, Xiaohao Liu, **Yewei Xia**, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua.     
+Zhulin Tao, Xiaohao Liu, **Yewei Xia**, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua.  \\   
 IEEE Transactions on Multimedia (**TMM**)
 
 [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100/) 
 
-Hao Zhang, Chuanxu Yan, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.      
+Hao Zhang, Chuanxu Yan, **Yewei Xia**, Jihong Guan, Shuigeng Zhou. \\     
 IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
 
 ( * denotes equal contribution)
