@@ -23,7 +23,9 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
 * Probabilistic methods: inference, generative models, uncertainty modeling.
 * Self-supervised learning and its support theory.
 
-## Publications
+## Publications 
+( * denotes equal contribution)
+
 [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810) 
 
 Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan. \\
@@ -48,8 +50,6 @@ IEEE Transactions on Multimedia (**TMM**)
 
 Hao Zhang, Chuanxu Yan, **Yewei Xia**, Jihong Guan, Shuigeng Zhou. \\     
 IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
-
-( * denotes equal contribution)
 
 ## Activities
 ### Services
