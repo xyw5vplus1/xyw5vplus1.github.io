@@ -10,7 +10,7 @@ redirect_from:
 
 I am Yewei Xia (夏业伟), a first year PhD student at Fudan University.
 I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
-I received my bachelor's degree from Communication University of China.
+I received my bachelor's degree from Communication University of China. During my study, I have spent time at Tencent, Alibaba DAMO Academy.
 
 I am open to possible cooperation or visiting opportunities. 
 Further, I am always happy to collaborate with junior (undergraduate / master) students.
@@ -59,6 +59,6 @@ Reviewer for AAAI, IJCAI, ECML, etc.
 - [ML & CV Seminar](http://ml.2prime.cn/)
 
 ## Miscs
-* I enjoy sporting and watching games. I am interested in analyzing Soccer formation and tactics. Feel free to communicate with me.
+* I enjoy sporting and watching sport games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Feel free to communicate with me.
 * I enjoy playing suduko, minesweeper and other mind games (including problems in algorithm contests >_<). 
 * In my spare time I like to read history books, especially Chinese history.
