@@ -30,11 +30,11 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
   Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan. 
   ACM Transactions on Knowledge Discovery from Data (**TKDD**)
 
-- [Differentially Private Nonlinear Causal Discovery from Numerical Data]    
+- [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452)
   Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou. 
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
-- [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance] 
+- [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://ojs.aaai.org/index.php/AAAI/article/view/25799)
   Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou. 
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
