@@ -56,7 +56,6 @@ Reviewer for AAAI, IJCAI, ECML, etc.
 - [Out-of-distribution Generalization Paper List](https://out-of-distribution-generalization.com/)
 - [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
-- [ML & CV Seminar](http://ml.2prime.cn/)
 
 ## Miscs
 * I enjoy sporting and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Feel free to communicate with me.
