@@ -19,7 +19,7 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
  
 
 **Research interests**
-* Causal discovery (especially in heterogeneous environments), causal representation learning, disentangled representation learning. 
+* Causal discovery (especially in heterogeneous environments), disentangled representation learning, machine learning under a causal perspective. 
 * Probabilistic methods: inference, generative models, uncertainty modeling.
 * Self-supervised learning and its support theory.
 
@@ -49,6 +49,10 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
 ## Activities
 ### Services
 Reviewer for AAAI, IJCAI, ECML, etc.
+
+### Teaching Assistant
+- 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery. Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
+  Enrollment: 21 graduate students
 
 ## Useful Links
 
