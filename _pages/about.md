@@ -51,8 +51,8 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
 Reviewer for AAAI, IJCAI, ECML, etc.
 
 ### Teaching Assistant
-- 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery. Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
-  Enrollment: 21 graduate students
+- 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
+  Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
 
 ## Useful Links
 
