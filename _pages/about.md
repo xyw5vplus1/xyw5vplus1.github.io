@@ -38,7 +38,7 @@ If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn
   Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
-- [Self-supervised learning for multimedia recommendation](https://ieeexplore.ieee.org/abstract/document/9811387).   
+- [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/abstract/document/9811387).   
   Zhulin Tao, Xiaohao Liu, **Yewei Xia**, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua.  
   IEEE Transactions on Multimedia (**TMM**)
 
