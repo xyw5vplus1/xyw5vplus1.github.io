@@ -15,7 +15,7 @@ I received my bachelor's degree from Communication University of China. During m
 I am open to possible cooperation or visiting opportunities. 
 Further, I am always happy to collaborate with junior (undergraduate / master) students.
 Students from underrepresented groups are strongly encouraged to reach out!
-If you are interested, feel free to contact me by [email](ywxia21@m.fudan.edu.cn).
+If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn).
  
 
 **Research interests**
