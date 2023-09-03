@@ -28,7 +28,7 @@ If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn
 
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance]().  
   **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
-  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate \sim 9.37%)
+  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
   
 - [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
   Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
