@@ -62,6 +62,7 @@ Reviewer for AAAI, IJCAI, ECML, etc.
 
 - [FAI Seminar](https://www.tengjiaye.com/seminar)
 - [Out-of-distribution Generalization Paper List](https://out-of-distribution-generalization.com/)
+- [How to Do Great Work](http://www.paulgraham.com/greatwork.html)
 - [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 
