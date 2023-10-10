@@ -10,16 +10,17 @@ redirect_from:
 
 I am Yewei Xia (夏业伟), a first-year PhD student at Fudan University.
 I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
-I received my bachelor's degree from Communication University of China. During my study, I have spent time at Tencent, Alibaba DAMO Academy.
+I received my bachelor's degree from Communication University of China. During my studies, I have spent time at Tencent, Alibaba DAMO Academy.
 
 I am open to possible cooperation or visiting opportunities. 
-Further, I am always happy to collaborate with junior (undergraduate / master) students.
+Further, I am always happy to collaborate with junior (undergraduate/master) students.
 Students from underrepresented groups are strongly encouraged to reach out!
 If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn).
  
 
 **Research interests**
-* Causal discovery (especially in heterogeneous environments), disentangled representation learning, machine learning under a causal perspective. 
+* Causal discovery (especially in heterogeneous environments), causal representation learning, machine learning under a causal perspective.
+* Domain adaptation/generalization with a valuable theoretical guarantee. 
 * Probabilistic methods: inference, generative models, uncertainty modeling.
 * Self-supervised learning and its support theory.
 
@@ -58,6 +59,10 @@ Reviewer for AAAI, IJCAI, ECML, etc.
 - 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
   Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
 
+## Selected Awards
+- International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal.
+- Outstanding Graduate of Beijing, 2021.
+
 ## Useful Links
 
 - [FAI Seminar](https://www.tengjiaye.com/seminar)
@@ -67,6 +72,6 @@ Reviewer for AAAI, IJCAI, ECML, etc.
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 
 ## Miscs
-* I enjoy sporting and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Feel free to communicate with me.
+* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Please feel free to reach out to me.
 * I enjoy playing sudoku, minesweeper and other mind games (including problems in algorithm contests >_<). 
 * In my spare time I like to read history books, especially Chinese history.
