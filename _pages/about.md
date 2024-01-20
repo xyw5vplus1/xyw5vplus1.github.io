@@ -27,6 +27,10 @@ If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn
 ## Publications 
 ( * denotes equal contribution)
 
+- Learning Adaptive Kernels for Statistical Independence Tests 
+  Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou. 
+  27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**) 
+
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance]().  
   **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
   23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
