@@ -26,7 +26,7 @@ I received my bachelor's degree from Communication University of China. I am ope
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
 
-- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance]().  
+- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743/).  
   **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
   23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
   
