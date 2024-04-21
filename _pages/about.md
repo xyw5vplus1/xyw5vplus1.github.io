@@ -22,7 +22,7 @@ I received my bachelor's degree from Communication University of China. I am ope
 ## Publications 
 ( * denotes equal contribution)
 
-- Learning Adaptive Kernels for Statistical Independence Tests.  
+- [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
 
