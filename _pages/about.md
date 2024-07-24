@@ -22,7 +22,7 @@ I received my bachelor's degree from Communication University of China. I am ope
 ## Publications 
 ( * denotes equal contribution)
 
-- [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph].  
+- Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
   Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
