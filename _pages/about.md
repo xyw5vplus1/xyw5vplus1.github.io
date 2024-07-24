@@ -22,6 +22,10 @@ I received my bachelor's degree from Communication University of China. I am ope
 ## Publications 
 ( * denotes equal contribution)
 
+- [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph]. 
+  Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
+  IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+  
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
   Wenwei Xu, Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
