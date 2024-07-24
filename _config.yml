@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yewei Xia"
   avatar           : "colored photo.jpeg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : 
   location         : "Shanghai, China"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=zh-CN"
