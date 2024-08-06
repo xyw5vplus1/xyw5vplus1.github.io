@@ -14,10 +14,10 @@ I received my bachelor's degree from Communication University of China. I am ope
  
 
 **Research interests**
-* Causal discovery (especially in heterogeneous environments), causal representation learning, machine learning under a causal perspective.
-* Domain adaptation/generalization with a valuable theoretical guarantee. 
-* Probabilistic methods: inference, generative models, uncertainty modeling.
-* Self-supervised learning and its support theory.
+* Causal discovery in the presence of latent confounders.
+* Causal representation learning, (non-linear) ICA.
+* Machine learning under a causal perspective.
+
 
 ## Publications 
 ( * denotes equal contribution)
@@ -79,6 +79,6 @@ Reviewer for AAAI, IJCAI, ICDE, ECML, etc.
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 
 ## Miscs
-* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Please feel free to reach out to me.
+* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Please don't hesitate to reach out to me.
 * I enjoy playing sudoku, minesweeper and other mind games (including problems in algorithm contests >_<). 
 * In my spare time I like to read history books, especially Chinese history.
