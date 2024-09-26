@@ -31,7 +31,7 @@ I received my bachelor's degree from Communication University of China. I am ope
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
-  Wenwei Xu, Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
+  Wenwei Xu\*, Hao Zhang\*, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
 
 - [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).  
