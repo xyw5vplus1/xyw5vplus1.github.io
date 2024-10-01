@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yewei Xia (夏业伟), a first-year PhD student at Fudan University.
+I am Yewei Xia (夏业伟), a second-year PhD student at Fudan University.
 I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
 I received my bachelor's degree from Communication University of China. I am open to possible cooperation or discussing opportunities. Further, I am always happy to collaborate with junior (undergraduate/master) students. Students from underrepresented groups are strongly encouraged to reach out! If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). I am now visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html).
  
