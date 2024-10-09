@@ -20,7 +20,7 @@ I received my bachelor's degree from Communication University of China. I am ope
 
 
 ## Selected Publications 
-( * denotes equal contribution)
+( * denotes equal contribution) 
 
 ### Research Topics
 
