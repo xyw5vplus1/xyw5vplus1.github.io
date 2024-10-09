@@ -7,6 +7,20 @@ author_profile: true
 
 Sorted by Research Topics
 
+**Causal Discovery under the Practical Issues**
+
+- Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
+  Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
+  IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+  
+- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
+  **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
+  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
+
+- [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
+  Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
+  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
+
 **Statistical Test**
 
 - Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
@@ -24,20 +38,6 @@ Sorted by Research Topics
 - [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://ojs.aaai.org/index.php/AAAI/article/view/25799).  
   Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
-
-**Causal Discovery under the Practical Issues**
-
-- Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
-  Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
-  IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
-  
-- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
-  **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
-  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
-
-- [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
-  Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
-  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 **Multi-modal Recommendation**
 
