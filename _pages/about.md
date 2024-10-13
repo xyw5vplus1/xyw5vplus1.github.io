@@ -20,7 +20,7 @@ I received my bachelor's degree from Communication University of China. I am ope
 
 
 ## Selected Publications 
-( * denotes equal contribution) 
+( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
 
 - Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
