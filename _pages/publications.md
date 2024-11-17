@@ -9,6 +9,10 @@ Sorted by Research Topics
 
 **Causal Discovery under the Practical Issues**
 
+- [Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity].  
+  Yixin Ren, Haocheng Zhang, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track August)
+
 - Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
   Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
