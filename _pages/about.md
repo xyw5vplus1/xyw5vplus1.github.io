@@ -6,67 +6,80 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
-I am Yewei Xia (夏业伟), a second-year PhD student at Fudan University.
-I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
-I received my bachelor's degree from Communication University of China. I am open to possible cooperation or discussing opportunities. Further, I am always happy to collaborate with junior (undergraduate/master) students. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). I am now visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html).
-
+I am Yixin Ren (任一鑫), a fourth year PhD student at Fudan University.
+I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN) 's group. I received my B.S. degree in Automation from the University of Science and Technology of China. In the second year of my PhD, I interned at Alibaba in Hangzhou. In the third year of my Ph.D., I went to the Chinese University of Hong Kong as a research assistant, cosupervised by Yufei Tao. Now, I mainly collaborate with Dr. [Hao Zhang](https://people.ucas.ac.cn/~hzhang10) at Shenzhen Institutes of Advanced Technology (SIAT) for research. I am open to possible collaboration or discussion opportunities. If you are interested, please feel free to contact me via [email](yxren21@m.fudan.edu.cn). 
 
 **Research interests**
-* Causal discovery in the presence of latent confounders.
-* Causal representation learning, (non-linear) ICA.
-* Machine learning under a causal perspective.
+
+* Causal discovery under the practical issues
+* Statistical inference: kernel-based hypothesis testing
+* Machine learning: focus on continual learning, recommendation system and generative modeling
 
 
 ## Selected Publications 
-( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
+
+( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=6xjfkpkAAAAJ&hl=zh-CN) or [Publications](https://xyw5vplus1.github.io/publications/))
+
+- Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity.
+  **Yixin Ren\***, Haocheng Zhang\*, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.
+  31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track August)
 
 - Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
-  Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)  
 
 - Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
-  Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
+  Hao Zhang, **Yixin Ren**, Yewei Xia, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
-  
+
 - [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).  
-  Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  **Yixin Ren**, Yewei Xia, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
 
-- [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
-  Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
-  ACM Transactions on Knowledge Discovery from Data (**TKDD**)
+- [Multi-Level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:eQOLeE2rZwMC)
 
-- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
-  **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
-  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
+  **Yixin Ren**, Hao Zhang, Yewei Xia,  Jihong Guan, Shuigeng Zhou.
+
+  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)  
 
 - [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
-  Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
+  Hao Zhang, Yewei Xia, **Yixin Ren**, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
-  
+
+- [Incremental graph classification by class prototype construction and augmentation](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=6xjfkpkAAAAJ&citation_for_view=6xjfkpkAAAAJ:_FxGoFyzp5QC)
+
+  **Yixin Ren**, Li Ke, Dong Li, Hui Xue, Zhao Li, Shuigeng Zhou.
+
+  Proceedings of the 32nd ACM International Conference on Information and Knowledge Management (**CIKM 2023**)
+
+- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
+  Yewei Xia, Hao Zhang, **Yixin Ren**, Jihong Guan, and Shuigeng Zhou.  
+  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
+
 ## Activities
+
 ### Services
-Reviewer for AAAI, IJCAI, ICDE, ECML, etc.
+
+Reviewer for ICML, NeurIPS, ICLR, AAAI, AISTATS, etc.
 
 ### Teaching Assistant
+
 - 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
   Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
 
 ## Selected Awards
-- International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal.
-- Outstanding Graduate of Beijing, 2021.
 
-## Useful Links
-
-- [FAI Seminar](https://www.tengjiaye.com/seminar)
-- [Out-of-distribution Generalization Paper List](https://out-of-distribution-generalization.com/)
-- [How to Do Great Work](http://www.paulgraham.com/greatwork.html)
-- [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
-- [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
+- First prize in the final round of the Chinese Mathematics Competitions (CMC),  first place in the preliminary round in Anhui Province.
 
 ## Miscs
-* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Please don't hesitate to reach out to me.
-* I enjoy playing sudoku, minesweeper and other mind games (including problems in algorithm contests >_<). 
-* In my spare time I like to read history books, especially Chinese history.
+
+* In my recent free time, I have become interested in learning about general relativity. 
+
+  *My childhood dream was to become a theoretical physicist, but forced by reality it is now only a hobby.*
+
+* Like all things abstract: Picasso paintings, the simple and elegant math structure, etc.
+
+* Love to sing, better at Jacky Cheung and Eason Chan, but lately I like Jian Li the most and am practicing light mixing.
