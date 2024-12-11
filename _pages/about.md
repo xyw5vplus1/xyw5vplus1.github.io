@@ -22,11 +22,11 @@ I received my bachelor's degree from Communication University of China. I am ope
 ## Selected Publications 
 ( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
 
-- Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
+- [Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing](https://openreview.net/pdf?id=BEiqNQZIky).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)  
 
-- Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
+- [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10614830).  
   Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
