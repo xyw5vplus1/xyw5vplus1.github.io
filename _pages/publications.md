@@ -13,7 +13,7 @@ Sorted by Research Topics
   Yixin Ren, Haocheng Zhang, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track August)
 
-- Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph.  
+- [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10614830).  
   Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
   IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
@@ -27,7 +27,7 @@ Sorted by Research Topics
 
 **Statistical Test**
 
-- Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing.  
+- [Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing](https://openreview.net/pdf?id=BEiqNQZIky).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)  
 
