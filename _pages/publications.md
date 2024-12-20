@@ -41,14 +41,20 @@ Sorted by Research Topics
 
 - [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://ojs.aaai.org/index.php/AAAI/article/view/25799).  
   Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
-  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
+  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)
+    
+**Continual Learning**
 
+- A New Model for Prototype-based Continual Learning in Hyperspherical Space.  
+  Yixin Ren, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
+  2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) 
+  
 **Multi-modal Recommendation**
 
 - [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/abstract/document/9811387).   
   Zhulin Tao, Xiaohao Liu, **Yewei Xia**, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua.  
   IEEE Transactions on Multimedia (**TMM**)
-
+  
 **Discover Causal Knowledge in Biological Data**
 
 - [Hybrid Causal Feature Selection for Cancer Biomarker Identification from RNA-seq Data](https://ieeexplore.ieee.org/abstract/document/10541056).  
