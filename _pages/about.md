@@ -48,7 +48,7 @@ I received my bachelor's degree from Communication University of China. I am ope
   
 ## Activities
 ### Services
-Reviewer for AAAI, IJCAI, ICDE, ECML, etc.
+Reviewer for ICML, AAAI, IJCAI, ICDE, ECML, etc.
 
 ### Teaching Assistant
 - 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
