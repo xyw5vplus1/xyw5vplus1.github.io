@@ -9,7 +9,7 @@ Sorted by Research Topics
 
 **Causal Discovery under the Practical Issues**
 
-- [Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity].  
+- [Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity] (https://dl.acm.org/doi/10.1145/3690624.3709338).  
   Yixin Ren\*, Haocheng Zhang\*, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track August)
 
