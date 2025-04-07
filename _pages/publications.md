@@ -45,7 +45,7 @@ Sorted by Research Topics
     
 **Continual Learning**
 
-- A New Model for Prototype-based Continual Learning in Hyperspherical Space.  
+- [A New Model for Prototype-based Continual Learning in Hyperspherical Space](https://ieeexplore.ieee.org/abstract/document/10887811).  
   Yixin Ren, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) 
   
