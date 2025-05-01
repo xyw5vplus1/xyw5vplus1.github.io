@@ -9,6 +9,18 @@ Sorted by Research Topics
 
 **Causal Discovery under the Practical Issues**
 
+- Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations  
+  Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
+  42nd International Conference on Machine Learning (**ICML 2025**)  
+
+- Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.   
+  **Yewei Xia**\*, Xueliang Cui\*, Hao Zhang, Yixin Ren, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.   
+  34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
+
+- Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
+  **Yewei Xia**, Yixin Ren, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
+  34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)
+  
 - [Fast Causal Discovery by Approximate Kernel-based Generalized Score Functions with Linear Computational Complexity](https://dl.acm.org/doi/10.1145/3690624.3709338).  
   Yixin Ren\*, Haocheng Zhang\*, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track August)
@@ -26,6 +38,10 @@ Sorted by Research Topics
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 **Statistical (Conditional) Independence Test**
+
+- Extracting Rare Dependence Patterns via Adaptive Sample Reweighting  
+  Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
+  42nd International Conference on Machine Learning (**ICML 2025**)
 
 - [Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing](https://openreview.net/pdf?id=BEiqNQZIky).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
