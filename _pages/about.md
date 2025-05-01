@@ -22,6 +22,22 @@ I received my bachelor's degree from Communication University of China. I am ope
 ## Selected Publications 
 ( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
 
+- Extracting Rare Dependence Patterns via Adaptive Sample Reweighting  
+  Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
+  42nd International Conference on Machine Learning (**ICML 2025**)
+
+- Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations  
+  Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
+  42nd International Conference on Machine Learning (**ICML 2025**)  
+
+- Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.   
+  **Yewei Xia**\*, Xueliang Cui\*, Hao Zhang, Yixin Ren, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.   
+  34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
+
+- Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
+  **Yewei Xia**, Yixin Ren, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
+  34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
+
 - [Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing](https://openreview.net/pdf?id=BEiqNQZIky).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   38th Annual Conference on Neural Information Processing Systems (**NeurIPS 2024**)  
