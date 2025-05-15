@@ -9,7 +9,7 @@ Sorted by Research Topics
 
 **Causal Discovery under the Practical Issues**
 
-- Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations  
+- Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations.  
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)  
 
@@ -39,7 +39,11 @@ Sorted by Research Topics
 
 **Statistical (Conditional) Independence Test**
 
-- Extracting Rare Dependence Patterns via Adaptive Sample Reweighting  
+- Score-based Generative Modeling for Conditional Independence Testing.  
+  Yixin Ren\*, Chenghou Jin\*, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
+  31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track February)
+
+- Extracting Rare Dependence Patterns via Adaptive Sample Reweighting.  
   Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)
 
