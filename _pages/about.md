@@ -35,7 +35,7 @@ I received my bachelor's degree from Communication University of China. I am ope
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
 
 - Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
-  **Yewei Xia**, Yixin Ren, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
+  **Yewei Xia**, Yixin Ren\*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
 
 - [Efficiently Learning Significant Fourier Feature Pairs for Statistical Independence Testing](https://openreview.net/pdf?id=BEiqNQZIky).  
