@@ -22,11 +22,11 @@ I received my bachelor's degree from Communication University of China. I am ope
 ## Selected Publications 
 ( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
 
-- Extracting Rare Dependence Patterns via Adaptive Sample Reweighting  
+- [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq)  
   Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)
 
-- Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations  
+- [Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations](https://openreview.net/pdf?id=WH3ZRH2jno)  
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)  
 
