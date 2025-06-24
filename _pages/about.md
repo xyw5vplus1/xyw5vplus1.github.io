@@ -44,7 +44,7 @@ I received my bachelor's degree from Communication University of China. I am ope
 
 - [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10614830).  
   Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
-  IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
 - [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
@@ -83,6 +83,6 @@ Reviewer for ICML, AAAI, IJCAI, ICDE, ECML, etc.
 - [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 
 ## Miscs
-* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Please don't hesitate to reach out to me.
-* I enjoy playing sudoku, minesweeper and other mind games (including problems in algorithm contests >_<). 
-* In my spare time I like to read history books, especially Chinese history.
+* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formations and tactics. Please don't hesitate to contact me.
+* I enjoy playing Sudoku, Minesweeper and other mind games (including problems in algorithm contests >_<). 
+* In my spare time, I like to read history books, especially Chinese history.
