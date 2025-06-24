@@ -9,7 +9,7 @@ Sorted by Research Topics
 
 **Causal Discovery under the Practical Issues**
 
-- Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations.  
+- [Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations](https://openreview.net/pdf?id=WH3ZRH2jno)  
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)  
 
@@ -27,7 +27,7 @@ Sorted by Research Topics
 
 - [Towards Effective Causal Partitioning by Edge Cutting of Adjoint Graph](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10614830).  
   Hao Zhang\*, Yixin Ren, **Yewei Xia**\*, Shuigeng Zhou, Jihong Guan.  
-  IEEE/ACM Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
+  IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**)
   
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
   **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
@@ -39,11 +39,15 @@ Sorted by Research Topics
 
 **Statistical (Conditional) Independence Test**
 
+- Regression-based Conditional Independence Test with Adaptive Kernels.   
+  Yixin Ren\*, Juncai Zhang\*, **Yewei Xia**, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.   
+  Artificial Intelligence (**AI**)
+
 - Score-based Generative Modeling for Conditional Independence Testing.  
   Yixin Ren\*, Chenghou Jin\*, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track February)
 
-- Extracting Rare Dependence Patterns via Adaptive Sample Reweighting.  
+- [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq)   
   Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)
 
