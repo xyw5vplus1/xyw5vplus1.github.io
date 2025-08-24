@@ -39,15 +39,15 @@ Sorted by Research Topics
 
 **Statistical (Conditional) Independence Test**
 
-- Regression-based Conditional Independence Test with Adaptive Kernels.   
+- [Regression-based Conditional Independence Test with Adaptive Kernels](https://www.sciencedirect.com/science/article/pii/S0004370225001109).   
   Yixin Ren\*, Juncai Zhang\*, **Yewei Xia**, Ruxin Wang, Feng Xie, Hao Zhang, Shuigeng Zhou.   
   Artificial Intelligence (**AI**)
 
-- Score-based Generative Modeling for Conditional Independence Testing.  
+- [Score-based Generative Modeling for Conditional Independence Testing](https://dl.acm.org/doi/pdf/10.1145/3711896.3737118).  
   Yixin Ren\*, Chenghou Jin\*, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   31st SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD 2025** Research Track February)
 
-- [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq)   
+- [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq).   
   Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)
 
