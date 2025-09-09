@@ -64,7 +64,15 @@ I received my bachelor's degree from Communication University of China. I am ope
   
 ## Activities
 ### Services
-Reviewer for ICML, AAAI, IJCAI, ICDE, ECML, etc.
+Conference Reviewer/Program Committee:
+  * International Conference on Machine Learning (ICML)
+  * International Conference on Learning Representations (ICLR)
+  * AAAI Conference on Artificial Intelligence (AAAI)
+  * ACM International Conference on Multimedia (ACM MM)
+
+Session Chair: 
+  * International Joint Conference on Artificial Intelligence (IJCAI) 2025.
+
 
 ### Teaching Assistant
 - 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
