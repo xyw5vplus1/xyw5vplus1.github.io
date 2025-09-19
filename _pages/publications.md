@@ -13,11 +13,11 @@ Sorted by Research Topics
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)  
 
-- Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.   
+- [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise](https://www.ijcai.org/proceedings/2025/0524.pdf)  
   **Yewei Xia**\*, Xueliang Cui\*, Hao Zhang, Yixin Ren, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.   
-  34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
+  34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  [[Python Code]](https://github.com/burgers0708/CMSI-code/tree/main)   
 
-- Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
+- [Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags](https://www.ijcai.org/proceedings/2025/1011.pdf)   
   **Yewei Xia**, Yixin Ren, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)
   
