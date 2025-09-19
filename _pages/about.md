@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yewei Xia (夏业伟), a second-year PhD student at Fudan University.
+I am Yewei Xia (夏业伟), a PhD student at Fudan University.
 I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
 I received my bachelor's degree from Communication University of China. I am open to possible cooperation or discussing opportunities. Further, I am always happy to collaborate with junior (undergraduate/master) students. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). I am now visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html).
 
@@ -30,11 +30,11 @@ I received my bachelor's degree from Communication University of China. I am ope
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)  
 
-- Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise.   
+- [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise](https://www.ijcai.org/proceedings/2025/0524.pdf)   
   **Yewei Xia**\*, Xueliang Cui\*, Hao Zhang, Yixin Ren, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.   
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
 
-- Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags.  
+- [Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags](https://www.ijcai.org/proceedings/2025/1011.pdf)   
   **Yewei Xia**\*, Yixin Ren\*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
 
@@ -57,10 +57,6 @@ I received my bachelor's degree from Communication University of China. I am ope
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
   **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
   23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
-
-- [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
-  Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
-  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
   
 ## Activities
 ### Services
@@ -81,14 +77,6 @@ Session Chair:
 ## Selected Awards
 - International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal.
 - Outstanding Graduate of Beijing, 2021.
-
-## Useful Links
-
-- [FAI Seminar](https://www.tengjiaye.com/seminar)
-- [Out-of-distribution Generalization Paper List](https://out-of-distribution-generalization.com/)
-- [How to Do Great Work](http://www.paulgraham.com/greatwork.html)
-- [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
-- [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
 
 ## Miscs
 * I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formations and tactics. Please don't hesitate to contact me.
