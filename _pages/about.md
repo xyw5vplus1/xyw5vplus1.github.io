@@ -14,27 +14,27 @@ I received my bachelor's degree from Communication University of China. I am ope
 
 
 **Research interests**
-* Causal discovery in the presence of latent confounders.
-* Causal representation learning, (non-linear) ICA.
+* Latent causal structure learning, causal representation learning.   
+* Statistical (conditional) independence tests using kernel methods. 
 * Machine learning under a causal perspective.
 
 
 ## Selected Publications 
 ( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
 
-- [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq)  
+- [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq).  
   Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)
 
-- [Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations](https://openreview.net/pdf?id=WH3ZRH2jno)  
+- [Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations](https://openreview.net/pdf?id=WH3ZRH2jno).  
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
   42nd International Conference on Machine Learning (**ICML 2025**)  
 
-- [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise](https://www.ijcai.org/proceedings/2025/0524.pdf)   
+- [Identifying Causal Mechanism Shifts under Additive Models with Arbitrary Noise](https://www.ijcai.org/proceedings/2025/0524.pdf).   
   **Yewei Xia**\*, Xueliang Cui\*, Hao Zhang, Yixin Ren, Feng Xie, Jihong Guan, Ruxin Wang, Shuigeng Zhou.   
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  [[Python Code]](https://github.com/burgers0708/CMSI-code/tree/main)  
 
-- [Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags](https://www.ijcai.org/proceedings/2025/1011.pdf)   
+- [Efficient Constraint-based Window Causal Graph Discovery in Time Series with Multiple Time Lags](https://www.ijcai.org/proceedings/2025/1011.pdf).   
   **Yewei Xia**\*, Yixin Ren\*, Hong Cheng, Hao Zhang, Jihong Guan, Minchuan Xu, Shuigeng Zhou.  
   34th International Joint Conference on Artificial Intelligence (**IJCAI 2025**)  
 
