@@ -10,17 +10,25 @@ redirect_from:
 
 I am Yewei Xia (夏业伟), a PhD student at Fudan University.
 I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
-I received my bachelor's degree from Communication University of China. I am open to possible cooperation or discussing opportunities. Further, I am always happy to collaborate with junior (undergraduate/master) students. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). I am now visiting Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), advised by Professor [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html).
+I received my bachelor's degree from the Communication University of China in 2021. I also spent a wonderful year as a visiting student in the Machine Learning Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), under the guidance of Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
+I am open to possible cooperation or discussing opportunities. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). 
 
 
 **Research interests**
 * Latent causal structure learning, causal representation learning.   
 * Statistical (conditional) independence tests using kernel methods. 
-* Machine learning under a causal perspective.
+* Representation learning under a causal perspective.
 
 
 ## Selected Publications 
 ( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
+
+- Conditional Independent Component Analysis for Estimating Causal Structure with Latent
+Variables.   
+  **Yewei Xia**, Zhengming Chen, Haoyue Dai, Fuhong Wang, Yixin Ren, Yiqing Li, Kun Zhang,
+Shuigeng Zhou.   
+  14th International Conference on Learning Representations (**ICLR 2026**)
+
 
 - [Extracting Rare Dependence Patterns via Adaptive Sample Reweighting](https://openreview.net/pdf?id=iIPAdNq9cq).  
   Yiqing Li\*, **Yewei Xia**\*, Xiaofei Wang, Zhengming Chen, Liuhua Peng, Mingming Gong, Kun Zhang.  
@@ -49,14 +57,6 @@ I received my bachelor's degree from Communication University of China. I am ope
 - [Learning Adaptive Kernels for Statistical Independence Tests](https://proceedings.mlr.press/v238/ren24a/ren24a.pdf).  
   Yixin Ren, **Yewei Xia**, Hao Zhang, Jihong Guan, Shuigeng Zhou.  
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
-
-- [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
-  Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
-  ACM Transactions on Knowledge Discovery from Data (**TKDD**)
-
-- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance](https://ieeexplore.ieee.org/abstract/document/10415743).  
-  **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
-  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
   
 ## Activities
 ### Services
@@ -65,6 +65,9 @@ Conference Reviewer/Program Committee:
   * International Conference on Learning Representations (ICLR)
   * AAAI Conference on Artificial Intelligence (AAAI)
   * ACM International Conference on Multimedia (ACM MM)
+
+Journal Reviewer:
+  * Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
 
 Session Chair: 
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025.
@@ -75,8 +78,9 @@ Session Chair:
   Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
 
 ## Selected Awards
-- International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal.
+- International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal, 2018.
 - Outstanding Graduate of Beijing, 2021.
+- China National Doctoral Scholarship, 2025 (Top 1\%). 
 
 ## Miscs
 * I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formations and tactics. Please don't hesitate to contact me.
