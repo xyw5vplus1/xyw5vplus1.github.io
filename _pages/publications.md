@@ -11,7 +11,11 @@ Sorted by Research Topics
 
 - Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables.  
   **Yewei Xia**, Zhengming Chen, Haoyue Dai, Fuhong Wang, Yixin Ren, Yiqing Li, Kun Zhang, Shuigeng Zhou.   
-  14th International Conference on Learning Representations (**ICLR 2026**)  
+  14th International Conference on Learning Representations (**ICLR 2026**)
+
+- Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement.  
+  Yixin Ren, Hao Zhang, **Yewei Xia**, Feng Xie, Jihong Guan, Shuigeng Zhou.  
+  ACM Transactions on Knowledge Discovery from Data (**TKDD**)
   
 - [Identification of Latent Confounders via Investigating the Tensor Ranks of the Nonlinear Observations](https://openreview.net/pdf?id=WH3ZRH2jno)  
   Zhengming Chen, **Yewei Xia**, Feng Xie, Jie Qiao, Zhifeng Hao, Ruichu Cai, Kun Zhang.  
@@ -76,21 +80,23 @@ Sorted by Research Topics
   Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)
     
-**Continual Learning**
+**Deep Learning (Continual Learning, Multi-modal Recommendation, Federated Learning)**
 
 - [A New Model for Prototype-based Continual Learning in Hyperspherical Space](https://ieeexplore.ieee.org/abstract/document/10887811).  
   Yixin Ren, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) 
-  
-**Multi-modal Recommendation**
 
-- Invariance Learning for Counterfactual Watch-time Prediction in Short Video Recommendation.
+- Invariance Learning for Counterfactual Watch-time Prediction in Short Video Recommendation.  
   Chenghou Jin\*, Yixin Ren\*, Hongxu Ma\*, **Yewei Xia**, Yi Guan, Hao Zhang, Jiandong Ding, Jihong Guan, Shuigeng Zhou.  
   40th AAAI Conference on Artificial Intelligence (**AAAI 2026**)
   
 - [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/abstract/document/9811387).   
   Zhulin Tao, Xiaohao Liu, **Yewei Xia**, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua.  
   IEEE Transactions on Multimedia (**TMM**)
+
+- [Flexible Differentially Private Vertical Federated Learning with Adaptive Feature Embeddings](https://arxiv.org/pdf/2308.02362).    
+  Yuxi Mi, Hongquan Liu, **Yewei Xia**, Yiheng Sun, Yateng Tang, Jihong Guan, Shuigeng Zhou.  
+  IEEE Transactions on Artificial Intelligence (**TAI**)  
   
 **Discover Causal Knowledge in Biological Data**
 
@@ -101,9 +107,3 @@ Sorted by Research Topics
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
   Hao Zhang, Chuanxu Yan, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
-
-**Federated Learning**
-
-- [Flexible Differentially Private Vertical Federated Learning with Adaptive Feature Embeddings](https://arxiv.org/pdf/2308.02362).    
-  Yuxi Mi, Hongquan Liu, **Yewei Xia**, Yiheng Sun, Yateng Tang, Jihong Guan, Shuigeng Zhou.  
-  IEEE Transactions on Artificial Intelligence (**TAI**)  
