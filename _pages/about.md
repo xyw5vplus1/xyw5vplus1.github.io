@@ -23,8 +23,8 @@ I am open to possible cooperation or discussing opportunities. If you are intere
 ## Selected Publications 
 ( * denotes equal contribution, see full publications in my [Google Scholar](https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=en) or [Publications](https://xyw5vplus1.github.io/publications/))
 
-- Conditional Independent Component Analysis for Estimating Causal Structure with Latent
-Variables.   
+- [Conditional Independent Component Analysis for Estimating Causal Structure with Latent
+Variables](https://openreview.net/pdf?id=TAOpnCPnjg).   
   **Yewei Xia**, Zhengming Chen, Haoyue Dai, Fuhong Wang, Yixin Ren, Yiqing Li, Kun Zhang,
 Shuigeng Zhou.   
   14th International Conference on Learning Representations (**ICLR 2026**)
