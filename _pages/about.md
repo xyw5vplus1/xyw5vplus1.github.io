@@ -63,11 +63,13 @@ Shuigeng Zhou.
 Conference Reviewer/Program Committee:
   * International Conference on Machine Learning (ICML)
   * International Conference on Learning Representations (ICLR)
+  * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
   * AAAI Conference on Artificial Intelligence (AAAI)
   * ACM International Conference on Multimedia (ACM MM)
 
 Journal Reviewer:
   * Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
+  * ACM Computing Surveys (CSUR)
 
 Session Chair: 
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025.
@@ -80,7 +82,7 @@ Session Chair:
 ## Selected Awards
 - International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal, 2018.
 - Outstanding Graduate of Beijing, 2021.
-- China National Doctoral Scholarship, 2025 (Top 1\%). 
+- China National Doctoral Scholarship, 2025 (Top 1%). 
 
 ## Miscs
 * I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formations and tactics. Please don't hesitate to contact me.
