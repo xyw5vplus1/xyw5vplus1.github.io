@@ -8,16 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-I am Yewei Xia (夏业伟), a PhD student at Fudan University.
-I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
-I received my bachelor's degree from the Communication University of China in 2021. I also spent a wonderful year as a visiting student in the Machine Learning Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), under the guidance of Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
-I am open to possible cooperation or discussing opportunities. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). 
+I am Yewei Xia (夏业伟). 
+
+I received the Ph.D. degree in Computer Science from Fudan University in June 2026, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). 
+
+Before that, I received my bachelor's degree from the Communication University of China in 2021. 
+
+I also spent a wonderful year as a visiting student in the Machine Learning Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in 2024, under the guidance of Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
+
+I am open to any possible cooperation or discussion opportunity. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). 
 
 
 **Research interests**
-* Latent causal structure learning, causal representation learning.   
+* Latent causal structure learning.
+* Causal representation learning with identifiability guarantee.   
 * Statistical (conditional) independence tests using kernel methods. 
-* Representation learning under a causal perspective.
 
 
 ## Selected Publications 
@@ -70,6 +75,7 @@ Conference Reviewer/Program Committee:
 Journal Reviewer:
   * Transactions on Pattern Analysis and Machine Intelligence (TPAMI)
   * ACM Computing Surveys (CSUR)
+  * Transactions on Machine Learning Research (TMLR)
 
 Session Chair: 
   * International Joint Conference on Artificial Intelligence (IJCAI) 2025.
@@ -80,9 +86,11 @@ Session Chair:
   Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
 
 ## Selected Awards
+- Gold Reviewer for ICML 2026. 
+- Outstanding Graduate of Shanghai, 2026.
+- China National Doctoral Scholarship, 2025.
+- Outstanding Graduate of Beijing, 2021. 
 - International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal, 2018.
-- Outstanding Graduate of Beijing, 2021.
-- China National Doctoral Scholarship, 2025 (Top 1%). 
 
 ## Miscs
 * I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formations and tactics. Please don't hesitate to contact me.
