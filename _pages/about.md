@@ -10,13 +10,9 @@ redirect_from:
 
 I am Yewei Xia (夏业伟). 
 
-I received the Ph.D. degree in Computer Science from Fudan University in June 2026, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). 
+I received the Ph.D. degree from Fudan University in June 2026, advised by Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN). Before that, I received my bachelor's degree from the Communication University of China in 2021. I also spent a wonderful year as a visiting student in the Machine Learning Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in 2024, under the guidance of Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
 
-Before that, I received my bachelor's degree from the Communication University of China in 2021. 
-
-I also spent a wonderful year as a visiting student in the Machine Learning Department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI) in 2024, under the guidance of Prof. [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). 
-
-I am open to any possible cooperation or discussion opportunity. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). 
+I am open to any opportunity for cooperation or discussion. If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn). 
 
 
 **Research interests**
