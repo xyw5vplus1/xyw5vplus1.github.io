@@ -7,13 +7,13 @@ author_profile: true
 
 Sorted by Research Topics
 
-**Causal Discovery under the Practical Issues**
+**Causal Discovery under Practical Issues**
 
-- Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables.  
+- [Conditional Independent Component Analysis for Estimating Causal Structure with Latent Variables](https://openreview.net/pdf?id=TAOpnCPnjg).  
   **Yewei Xia**, Zhengming Chen, Haoyue Dai, Fuhong Wang, Yixin Ren, Yiqing Li, Kun Zhang, Shuigeng Zhou.   
   14th International Conference on Learning Representations (**ICLR 2026**)
 
-- Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement.  
+- [Causal Discovery by Multi-Level Wavelet Mapping Correlation Based Statistical Dependence Measurement](https://dl.acm.org/doi/epdf/10.1145/3797881).  
   Yixin Ren, Hao Zhang, **Yewei Xia**, Feng Xie, Jihong Guan, Shuigeng Zhou.  
   ACM Transactions on Knowledge Discovery from Data (**TKDD**)
   
@@ -47,7 +47,13 @@ Sorted by Research Topics
 
 **Statistical (Conditional) Independence Test**
 
-- Independence Test for Linear Non-Gaussian Data and Applications in Causal Discovery.  
+- [Powerful and Theoretically Guaranteed Independence Testing on Heterogeneous Federated Clients](https://openreview.net/pdf?id=hH0EknXrgc).   
+  Yixin Ren*, Hongquan Liu*, Juncai Zhang, **Yewei Xia**, Zichuan Lin, Deheng Ye, Hao Zhang, Jihong
+Guan, Shuigeng Zhou.   
+  43rd International Conference on Machine Learning (**ICML 2026**)
+
+
+- [Independence Test for Linear Non-Gaussian Data and Applications in Causal Discovery](https://openreview.net/pdf?id=Uc1EAICxTD).  
   Yiqing Li, Xiaofei Wang, Boyang Sun, **Yewei Xia**, Kun Zhang.  
   14th International Conference on Learning Representations (**ICLR 2026**).  
 
@@ -86,7 +92,7 @@ Sorted by Research Topics
   Yixin Ren, **Yewei Xia**, Li Ke, Longtao Huang, Hui Xue, Shuigeng Zhou.  
   2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP 2025**) 
 
-- Invariance Learning for Counterfactual Watch-time Prediction in Short Video Recommendation.  
+- [Invariance Learning for Counterfactual Watch-time Prediction in Short Video Recommendation](https://ojs.aaai.org/index.php/AAAI/article/view/38518).  
   Chenghou Jin\*, Yixin Ren\*, Hongxu Ma\*, **Yewei Xia**, Yi Guan, Hao Zhang, Jiandong Ding, Jihong Guan, Shuigeng Zhou.  
   40th AAAI Conference on Artificial Intelligence (**AAAI 2026**)
   
