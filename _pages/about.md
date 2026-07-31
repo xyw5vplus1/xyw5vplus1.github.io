@@ -63,6 +63,7 @@ Shuigeng Zhou.
 ### Services
 Conference Reviewer/Program Committee:
   * International Conference on Machine Learning (ICML)
+  * Annual Conference on Neural Information Processing Systems (NeurIPS)
   * International Conference on Learning Representations (ICLR)
   * ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD)
   * AAAI Conference on Artificial Intelligence (AAAI)
